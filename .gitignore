@@ -1,2 +1,3 @@
 *.o
 ASMExamples/HelloWorld/helloworld
+ASMExamples/Compare/compare
